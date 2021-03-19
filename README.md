@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Miles
-- 👀 I’m interested in self hostin and automation
+- 👀 I’m interested in self hosting and automation
 - 🌱 I’m currently learning React
 - I have a site here with some of my projects https://mhale.dev
 - 📫 How to reach me mhale@protonmail.com
