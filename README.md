@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Miles
 - 👀 I’m interested in self hosting and automation
-- I have a site here with some of my projects https://mhale.dev
+- 📚 Currently learning GraphQL and docker swarm
+- 🖥 I have a portfolio here with some of my projects https://mhale.dev
 - 📫 You can reach me at mhale@protonmail.com
 
 <!---
