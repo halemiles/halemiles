@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miles
+- 👋 Hey, I’m Miles
 - 💖 I’m interested in self hosting and automation and security #teamblue 🟦
 - 📚 Currently learning playwright and docker swarm
 - 🖥 Check out my portfolio and some of my projects https://mhale.dev
