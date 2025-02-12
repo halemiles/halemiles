@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Miles
 - 💖 I’m interested in self hosting, automation and security #teamblue 🟦
-- 📚 Currently learning playwright and docker swarm
+- 📚 Currently learning cybersecurity and monitoring.
 - 🖥 Check out my portfolio and some of my projects https://mhale.dev
 - 📫 You can reach me at mhale@protonmail.com
 
